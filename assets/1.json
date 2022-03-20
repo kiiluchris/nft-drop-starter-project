@@ -1,0 +1,15 @@
+{
+  "name": "buds",
+  "symbol": "",
+  "image": "1.gif",
+  "properties": {
+    "files": [{
+      "uri": "1.gif",
+      "type": "image/gif"
+    }],
+    "creators": [{
+      "address": "Fvjof5zg8zqCxFsEEdwQSznR4gJx6tHNrkxHqLJH9mTu",
+      "share": 100
+    }]
+  }
+}

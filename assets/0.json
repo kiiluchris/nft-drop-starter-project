@@ -1,0 +1,15 @@
+{
+  "name": "wheelie",
+  "symbol": "",
+  "image": "0.gif",
+  "properties": {
+    "files": [{
+      "uri": "0.gif",
+      "type": "image/gif"
+    }],
+    "creators": [{
+      "address": "Fvjof5zg8zqCxFsEEdwQSznR4gJx6tHNrkxHqLJH9mTu",
+      "share": 100
+    }]
+  }
+}
